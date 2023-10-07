@@ -1,0 +1,14 @@
+:root{
+  --dark-deep: #000000;
+  --dark: #151515;
+  --orange-light: #f8a145;
+  --orange-mid: #f07900;
+  --orange-deep: #d35100;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--dark);
+  color: white;
+}

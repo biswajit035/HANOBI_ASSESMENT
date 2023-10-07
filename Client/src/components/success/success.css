@@ -1,0 +1,13 @@
+.container{
+    /* background: red; */
+    height: 100vh;
+    width: 100vw;
+
+    .success{
+        margin: auto;
+        font-size: 25px;
+            display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+}
